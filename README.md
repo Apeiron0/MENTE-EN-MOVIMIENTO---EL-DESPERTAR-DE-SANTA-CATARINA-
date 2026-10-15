@@ -1,2 +1,78 @@
-# MENTE-EN-MOVIMIENTO---EL-DESPERTAR-DE-SANTA-CATARINA-
-INTRODUCCIÓN Y CONTEXTO El proyecto "Mente en Movimiento: El Despertar de Santa Catarina" es una propuesta de videojuego interactivo y educativo ambientado en las instalaciones de la Universidad Tecnológica de Santa Catarina (UTSC). La iniciativa surge con el propósito de combatir el sedentarismo, la fatiga mental y los dolores posturales habituales en entornos académicos y laborales. A través de una mecánica de carrera continua (Endless Runner) combinada con trivias dinámicas sobre hábitos de vida saludable, el juego busca concientizar a los estudiantes sobre la importancia del cuidado físico y mental.  SINOPSIS DE LA HISTORIA En el campus tecnológico de la UTSC, una densa y opaca neblina conocida como "La Fatiga" se ha apoderado de todos los salones, oficinas y talleres. Bajo el dominio de su líder, una entidad cósmica llamada El Sedentarismo, los estudiantes y profesores han quedado atrapados en un estado de congelamiento, sufriendo de estrés acumulado, somnolencia extrema y rigidez lumbar.  Para salvar la universidad, surge Movi, el avatar de la energía y la activación física. Junto a su pequeño guía Moustrico Verde, Movi debe recorrer corriendo los cinco sectores principales del campus para purificar el ambiente. A diferencia de los juegos tradicionales, Movi no utiliza violencia ni armas convencionales; su poder proviene de las ondas de ritmo, los ejercicios de estiramiento y el conocimiento práctico sobre salud integral.  PERSONAJES PRINCIPALES Movi (Héroe o Heroína Principal): Es el avatar controlado por el jugador. Viste el uniforme deportivo oficial de la Universidad Tecnológica de Santa Catarina. Presenta un diseño inclusivo donde el jugador puede seleccionar género masculino o femenino al iniciar la partida. Movi posee un dinamismo visual que refleja su estado de energía a través de destellos de luz azul y verde.  Moustrico Verde (Guía y Mentor): Un ser pequeño, ágil y sonriente inspirado en el área de extensión comunitaria. Aparece flotando en los bordes de la pantalla para advertir sobre los obstáculos, brindar instrucciones visuales de salud y ofrecer explicaciones breves cuando el jugador falla una pregunta.  El Sedentarismo (Jefe Final): La manifestación física de la inactividad. Es una nube gris gigante y perezosa que posee monitores de computadora por ojos. Su objetivo es mantener a la comunidad universitaria fija en sus asientos. Para defenderse, ataca lanzando ráfagas de sillas giratorias, escritorios, almohadas gigantes y carpetas de pendientes.  MECÁNICAS DE JUEGO Y JUGABILIDAD (GAMEPLAY) Mecánica de Carrera Continua: Movi se desplaza automáticamente hacia adelante a lo largo de un escenario en tres dimensiones o perspectiva 2D en carril múltiple. El jugador debe usar los controles para desplazarse a la izquierda, derecha, saltar o deslizarse por el suelo con el fin de esquivar obstáculos físicos como mochilas, bancos escolares, sillas giratorias y charcos de vapor gris.  Barricadas de Salud (Mecánica de Trivia): A intervalos regulares en la pista, aparecen grandes barreras que bloquean el camino. Sobre cada barricada se despliega una pregunta sobre salud con dos o tres opciones de respuesta. El jugador debe evaluar la pregunta en fracción de segundos y mover a Movi hacia el carril que contiene la opción correcta. Si responde correctamente, Movi ejecuta una maniobra o salto especial, destruye la barrera y gana un impulso de velocidad junto con puntos de Enfoque Mental. Si responde de forma incorrecta o no reacciona a tiempo, Movi choca contra la barrera, pierde una porción de su barra de Vitalidad y el Moustrico Verde le muestra en pantalla la corrección pedagógica. Sistemas de Indicadores y Objetos Especiales: La salud del personaje no se mide con vidas tradicionales, sino mediante el Medidor de Vitalidad Psico-Física. Recibir impactos o responder mal reduce esta barra. Para recuperarla, el jugador puede recolectar botellas de agua en la pista o responder correctamente las preguntas de las barricadas. Los íconos de sol u oro otorgan invencibilidad temporal y limpian los obstáculos de la pantalla.  DESARROLLO DE LOS NIVELES Y PROGRESIÓN DE DIFICULTAD Nivel 1: Aulas de Clase (Entorno de Introducción) Movi comienza su recorrido en el edificio de salones de clase de la UTSC. El entorno está compuesto por pisos de mosaico beige, pizarrones verdes y ventanas que dan hacia el campus. Los obstáculos principales son mochilas tiradas en el pasillo y bancos escolares. En este nivel la velocidad de carrera es lenta y las barricadas contienen preguntas muy básicas enfocadas en hábitos diarios e higiene corporal (como la cantidad de agua recomendada al día o la frecuencia de cepillado dental). Hay bastante tiempo de reacción para leer las opciones desde lejos.  Nivel 2: Oficinas Administrativas (Entorno de Trabajo) El escenario cambia a pasillos con alfombra azul, estantes con archivadores metálicos y papelería volando por el aire. Los enemigos son administrativos encorvados y los obstáculos son sillas giratorias ejecutivas que se mueven horizontalmente. La velocidad aumenta a un ritmo medio-bajo. Las preguntas de las barricadas abordan temas de postura corporal, prevención de dolores lumbares, ergonomía frente a la computadora y la importancia de realizar pausas activas durante jornadas largas.  Nivel 3: Talleres Industriales (Entorno de Ingeniería) Movi se adentra en la zona de talleres mecánicos e industriales. El suelo es de concreto gris con líneas de advertencia amarillas y al fondo se aprecian grúas y tuberías. El peligro aumenta con la presencia de charcos de vapor gris y engranajes mecánicos fuera de control. La velocidad de la carrera es media-alta. Las barricadas presentan preguntas sobre la salud neuromuscular, la técnica adecuada para levantar objetos pesados del suelo sin dañar la columna vertebral y la prevención de lesiones físicas en el trabajo.  Nivel 4: Plaza Central UTSC (Entorno Exterior) Movi sale a las áreas verdes del campus. El camino está hecho de adoquines intercalados con pasto y al fondo se empieza a disipar la neblina, dejando ver la silueta del Cerro de la Silla. Las baldosas del piso están agrietadas y fallan al pisarlas. Los obstáculos incluyen estudiantes congelados por la fatiga y macetas. La velocidad es rápida y el tiempo para leer las barricadas es muy reducido. El tema de las preguntas se centra en la salud mental, el manejo de la ansiedad, la importancia del descanso nocturno y las técnicas de gestión del estrés en exámenes.  Nivel 5: El Auditorio y Enfrentamiento Final (Modo Jefe) El clímax del juego toma lugar en el escenario del auditorio principal de la UTSC. Es un nivel de velocidad extrema donde Movi persigue continuamente a El Sedentarismo. La entidad nube gris flota frente al jugador lanzando ráfagas masivas de monitores, sillas y almohadas gigantes. Las barricadas de salud aparecen en rápida sucesión, abordando temas avanzados como la fisiología del ejercicio, los beneficios neuroplásticos del movimiento en el cerebro y la prevención integral de enfermedades. Responder bien cada barrera activa el ataque básico de Movi, la Onda de Oxígeno, restando energía al jefe.  Al final del enfrentamiento, el juego se detiene brevemente para el reto de Respiración Consciente. Un círculo en la pantalla se expande y contrae, y el jugador debe presionar el botón al ritmo indicado para sincronizar su respiración. Esto genera el Escudo de Ventilación y permite a Movi ejecutar la Onda de Vitalidad Absoluta, disolviendo por completo a El Sedentarismo.  GUIA VISUAL Y PALETA DE COLORES El apartado artístico utiliza una estética en pixel art de 2D o gráficos vectoriales estilizados. Los colores institucionales tienen un papel predominante en la interfaz y el entorno:  El Azul UTSC (Código Hexadecimal #204C73) se utiliza en el uniforme deportivo de Movi y en los bordes principales de la interfaz del juego.  El Oro UTSC (Código Hexadecimal #F5C242) se aplica en los acentos del uniforme, los íconos de energía y los elementos de bonificación.  El Verde Moustrico (Código Hexadecimal #A4C366) representa la vitalidad y se usa en el personaje del Moustrico Verde, así como en las señales de respuesta correcta.  El Gris Cansado y Gris Mist (Códigos Hexadecimales #EAEAEA y #FF4C4C) se emplean para representar la neblina de La Fatiga, los enemigos zombies de oficina y los ataques de El Sedentarismo.  El Azul Vitalidad (Código Hexadecimal #00A8FF) se utiliza para la barra de energía psico-física del jugador y los efectos de oxígeno.  EPÍLOGO Y MENSAJE EDUCATIVO Una vez derrotado El Sedentarismo, la neblina gris desaparece totalmente del campus de la UTSC. Los edificios recuperan sus colores originales, la vegetación florece y el sol ilumina el panorama. Los profesores y estudiantes celebran recuperando su postura, liberándose del dolor de espalda y mostrando un enfoque mental total para sus actividades académicas.  DOCX El juego concluye con la pantalla del Reporte Semanal de Salud, donde se muestran las métricas obtenidas por el jugador, tales como los puntos de enfoque mental acumulados, las preguntas de salud respondidas correctamente y la cantidad de vitalidad recuperada. Movi se despide mirando al jugador y recordando la frase principal del juego: "¡Moverse alegra el corazón! / Movement lifts the spirit!" 
+# Mente en Movimiento: El Despertar de Santa Catarina
+
+> Videojuego interactivo y educativo ambientado en las instalaciones de la Universidad Tecnológica de Santa Catarina.
+
+## Introducción y contexto
+
+El proyecto "Mente en Movimiento: El Despertar de Santa Catarina" surge como una propuesta creativa y educativa para explorar la relación entre aprendizaje, tecnología y la experiencia universitaria. A través de un videojuego interactivo, se busca transformar espacios cotidianos del campus en escenarios de descubrimiento, reflexión y participación.
+
+La idea central es conectar a la comunidad estudiantil con un entorno narrativo inmersivo, donde la exploración del campus, la resolución de retos y la interacción con elementos del contexto académico permitan aprender de manera más dinámica y significativa.
+
+## Propósito del proyecto
+
+Este proyecto tiene como objetivo:
+
+- Crear una experiencia lúdica que incentive el interés por el conocimiento.
+- Utilizar la universidad como escenario principal de la historia.
+- Integrar elementos educativos dentro de una narrativa atractiva y accesible.
+- Favorecer la participación activa del usuario mediante la exploración y la toma de decisiones.
+
+## ¿Qué hace especial a este proyecto?
+
+### 1. Enfoque educativo
+El videojuego no se limita a la diversión; busca generar aprendizaje a partir de la interacción con el entorno, la resolución de actividades y la comprensión del espacio universitario.
+
+### 2. Ambientación universitaria
+La historia se desarrolla en las instalaciones de la Universidad Tecnológica de Santa Catarina, lo que le aporta un sentido de identidad y pertenencia al proyecto.
+
+### 3. Experiencia inmersiva
+La propuesta combina narrativa, escenarios, exploración y mecanismos de juego para construir una experiencia más envolvente y memorable.
+
+### 4. Aprendizaje activo
+En lugar de ser una experiencia pasiva, invita al jugador a participar, observar, descubrir y comprender su entorno desde una perspectiva más consciente.
+
+## Objetivos principales
+
+- Diseñar una propuesta de videojuego con identidad propia.
+- Integrar contenido educativo de forma natural dentro de la experiencia.
+- Generar una narrativa que conecte al jugador con la vida universitaria.
+- Potenciar la creatividad y la innovación dentro de un entorno académico.
+
+## Temática y tono
+
+El proyecto propone un enfoque donde lo académico, lo emocional y lo visual se combinan para crear una experiencia cercana, motivadora y con fuerte sentido de lugar. La ambientación puede invitar a la curiosidad, la reflexión y la exploración, mientras transmite la energía de un entorno universitario en movimiento.
+
+## Alcance del proyecto
+
+La propuesta puede abarcar diferentes elementos, entre ellos:
+
+- Exploración de espacios del campus.
+- Interacciones con personajes o elementos narrativos.
+- Misiones o desafíos educativos.
+- Dinámicas de progresión y descubrimiento.
+- Experiencia visual y sonora que refuerce la inmersión.
+
+## Visión general
+
+"Mente en Movimiento" busca convertirse en una herramienta de comunicación, creatividad y aprendizaje, donde el juego funcione como puente entre la innovación tecnológica y la construcción de conocimiento. El resultado esperado es una propuesta atractiva, significativa y con potencial para conectar con estudiantes, docentes y público en general.
+
+---
+
+## Resumen breve
+
+Este proyecto representa una visión innovadora de cómo un videojuego puede ser utilizado como medio educativo y expresivo dentro del entorno universitario. Su valor radica en la mezcla de creatividad, contexto local e intención formativa, convirtiendo el campus en un espacio de exploración y aprendizaje.
+
+## Estado del proyecto
+
+La propuesta se encuentra en fase de conceptualización y desarrollo inicial, con un enfoque orientado a consolidar su narrativa, objetivo educativo y experiencia general de juego.
+
+---
+
+Si deseas, puedo ayudarte a continuar y convertir este README en una versión aún más profesional con:
+
+- imagen de portada
+- secciones de "Gameplay", "Historia" y "Tecnologías"
+- badges de proyecto
+- instalación y ejecución
+- roadmap de desarrollo
+- versión más visual tipo GitHub landing page
